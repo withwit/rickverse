@@ -1,4 +1,16 @@
-# Getting Started with Create React App
+# Welcome to Rickverse project
+
+Try demo [here](https://rickv3rs3.web.app/)
+
+It is a small project made by using reactjs, [rick and morty API](https://rickandmortyapi.com/api/character/?name=rick) and some third-party libraries.
+
+# Follow the mentioned👇 steps to run this project after cloning:
+
+1. cd to the project folder and run command "npm install".
+
+2. "npm start" to run the project locally on [http://localhost:3000](http://localhost:3000).
+
+# Additional Information 👇
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 

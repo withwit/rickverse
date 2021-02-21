@@ -10,6 +10,8 @@ It is a small project made by using reactjs, [rick and morty API](https://rickan
 
 2. "npm start" to run the project locally on [http://localhost:3000](http://localhost:3000).
 
+![image](https://user-images.githubusercontent.com/32429224/108618707-417a5100-7446-11eb-887e-d5387e984f7b.png)
+
 # Additional Information 👇
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

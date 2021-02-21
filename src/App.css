@@ -1,0 +1,61 @@
+.App {
+  font-family: fantasy;
+  font-weight: 300;
+  color: black;
+  text-align: center;
+  background-color: rgba(227, 255, 255, 255);
+}
+
+.loading {
+  display: flex;
+  justify-content: center;
+  /* width: 200px; */
+}
+
+.loading-img {
+  padding-top: 40vh;
+  width: 200px;
+}
+
+.loadinScreen {
+  background-color: rgba(227, 255, 255, 255);
+  width: 100vw;
+  height: 100vh;
+}
+
+.column-centre {
+  display: flex;
+  justify-content: center;
+}
+
+.searchbar {
+  outline-color: rgba(61, 255, 61, 0.8);
+  position: bottom;
+  width: 100;
+  color: rgba(61, 255, 61, 1);
+  font-size: 35px;
+  transform: translateY(30px);
+  padding: 12px 20px;
+  border: 9px solid #000;
+}
+
+.searchbar:focus {
+  border: 9px solid rgb(12, 56, 12);
+}
+
+.heading {
+  padding-top: 30px;
+  padding-bottom: 50px;
+}
+
+.heading:hover {
+  cursor: pointer;
+}
+
+/* .select-before {
+  width: 90px;
+}
+
+.select-after {
+  width: 80px;
+} */

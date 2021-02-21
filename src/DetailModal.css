@@ -1,0 +1,49 @@
+.DetailCard {
+  font-size: 28px;
+  font-family: fantasy;
+  word-spacing: 1.5vw;
+  color: black;
+}
+
+.Detail-Title {
+  font-size: 60px;
+  word-spacing: 20px;
+}
+.Detail-secondary {
+  font-size: 22px;
+  color: rgba(118, 143, 137, 0.945);
+}
+
+.inner-element-modal {
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: right;
+  font-size: 25px;
+  color: black;
+  transform: translateZ(30px);
+}
+
+.Male-Icon {
+  width: 70px;
+}
+
+.Alien-Icon {
+  width: 50px;
+}
+
+.Origin-Icon {
+  width: 60px;
+}
+
+.Unknown-Icon {
+  padding-left: 4px;
+  width: 40px;
+}
+
+.Dead-Icon {
+  width: 50px;
+}
+
+.Alive-Icon {
+  width: 50px;
+}
